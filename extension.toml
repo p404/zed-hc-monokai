@@ -4,4 +4,4 @@ description = "High contrast Monokai theme with dark charcoal background and bri
 version = "0.0.1"
 schema_version = 1
 authors = ["p404"]
-repository = "https://github.com/p404/hc-monokai"
+repository = "https://github.com/p404/zed-hc-monokai"

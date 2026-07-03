@@ -35,14 +35,14 @@ A high contrast Monokai theme for Zed editor with a dark charcoal background and
 ```bash
 mkdir -p ~/.config/zed/themes
 curl -o ~/.config/zed/themes/hc-monokai-p404.json \
-  https://raw.githubusercontent.com/p404/hc-monokai/main/themes/hc-monokai-p404.json
+  https://raw.githubusercontent.com/p404/zed-hc-monokai/main/themes/hc-monokai-p404.json
 ```
 
 #### Windows (PowerShell)
 
 ```powershell
 New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\AppData\Roaming\Zed\themes"
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/p404/hc-monokai/main/themes/hc-monokai-p404.json" `
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/p404/zed-hc-monokai/main/themes/hc-monokai-p404.json" `
   -OutFile "$env:USERPROFILE\AppData\Roaming\Zed\themes\hc-monokai-p404.json"
 ```
 
