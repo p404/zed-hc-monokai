@@ -1,5 +1,5 @@
-id = "hc-monokai-p404-theme"
-name = "HC Monokai P404"
+id = "hc-monokai-theme"
+name = "HC Monokai"
 description = "High contrast Monokai theme with dark charcoal background and bright, vibrant syntax highlighting"
 version = "0.0.1"
 schema_version = 1

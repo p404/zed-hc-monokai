@@ -1,7 +1,7 @@
-# HC Monokai P404 - Zed Theme Makefile
+# HC Monokai - Zed Theme Makefile
 # Installs the theme to Zed's themes directory on macOS
 
-THEME_NAME = hc-monokai-p404
+THEME_NAME = hc-monokai
 THEME_FILE = themes/$(THEME_NAME).json
 ZED_THEMES_DIR = $(HOME)/.config/zed/themes
 

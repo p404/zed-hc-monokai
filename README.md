@@ -1,8 +1,8 @@
-# HC Monokai P404 - Zed Theme
+# HC Monokai - Zed Theme
 
 A high contrast Monokai theme for Zed editor with a dark charcoal background and bright, vibrant syntax highlighting.
 
-![HC Monokai P404 Screenshot](docs/screenshot.png)
+![HC Monokai Screenshot](docs/screenshot.png)
 
 ## Features
 
@@ -24,9 +24,9 @@ A high contrast Monokai theme for Zed editor with a dark charcoal background and
 1. Open Zed
 2. Open the command palette with `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Linux)
 3. Type "zed: extensions" and select it
-4. Search for "HC Monokai P404"
+4. Search for "HC Monokai"
 5. Click Install
-6. Open Settings and select "HC Monokai P404" as your theme
+6. Open Settings and select "HC Monokai" as your theme
 
 ### Manual Installation
 
@@ -34,19 +34,19 @@ A high contrast Monokai theme for Zed editor with a dark charcoal background and
 
 ```bash
 mkdir -p ~/.config/zed/themes
-curl -o ~/.config/zed/themes/hc-monokai-p404.json \
-  https://raw.githubusercontent.com/p404/zed-hc-monokai/main/themes/hc-monokai-p404.json
+curl -o ~/.config/zed/themes/hc-monokai.json \
+  https://raw.githubusercontent.com/p404/zed-hc-monokai/main/themes/hc-monokai.json
 ```
 
 #### Windows (PowerShell)
 
 ```powershell
 New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\AppData\Roaming\Zed\themes"
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/p404/zed-hc-monokai/main/themes/hc-monokai-p404.json" `
-  -OutFile "$env:USERPROFILE\AppData\Roaming\Zed\themes\hc-monokai-p404.json"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/p404/zed-hc-monokai/main/themes/hc-monokai.json" `
+  -OutFile "$env:USERPROFILE\AppData\Roaming\Zed\themes\hc-monokai.json"
 ```
 
-After installation, open Zed Settings and select "HC Monokai P404" as your theme.
+After installation, open Zed Settings and select "HC Monokai" as your theme.
 
 ## Color Palette
 
@@ -64,7 +64,7 @@ After installation, open Zed Settings and select "HC Monokai P404" as your theme
 
 ## Related
 
-- [HC Monokai P404 for VS Code](https://github.com/p404/hc-monokai-p404) - The original VS Code theme
+- [HC Monokai for VS Code](https://github.com/p404/hc-monokai-p404) - The original VS Code theme
 
 ## License
 
