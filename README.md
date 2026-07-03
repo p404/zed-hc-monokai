@@ -1,13 +1,13 @@
 # HC Monokai - Zed Theme
 
-A high contrast Monokai theme for Zed editor with a dark charcoal background and bright, vibrant syntax highlighting.
+A high contrast Monokai theme for Zed editor with a black editor background, charcoal UI surfaces, and bright, vibrant syntax highlighting.
 
 ![HC Monokai Screenshot](docs/screenshot.png)
 
 ## Features
 
 - **High contrast** design optimized for readability
-- **Dark charcoal** background that reduces eye strain
+- **Black editor background** with charcoal UI surfaces for clearer panel, tab, and menu separation
 - **Bright cyan accents** (#43B9D8) for UI elements and borders
 - **Classic Monokai** syntax highlighting colors:
   - Comments: Orange (#FD971F)
@@ -61,6 +61,7 @@ After installation, open Zed Settings and select "HC Monokai" as your theme.
 | Function | Green | #A6E22E |
 | Type | Cyan | #66D9EF |
 | Number | Purple | #AE81FF |
+| UI Surface | Charcoal | #080808 |
 
 ## Related
 
