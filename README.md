@@ -9,13 +9,14 @@ A high contrast Monokai theme for Zed editor with a black editor background, cha
 - **High contrast** design optimized for readability
 - **Black editor background** with charcoal UI surfaces for clearer panel, tab, and menu separation
 - **Bright cyan accents** (#43B9D8) for UI elements and borders
-- **Classic Monokai** syntax highlighting colors:
-  - Comments: Orange (#FD971F)
+- **High-contrast Monokai** syntax highlighting colors:
+  - Comments: Muted olive (#A8A27F)
   - Strings: Yellow (#E6DB74)
-  - Keywords: Magenta (#F92672)
+  - Keywords: Magenta (#FF6699)
   - Functions: Green (#A6E22E)
   - Types: Cyan (#66D9EF)
-  - Numbers: Purple (#AE81FF)
+  - Numbers: Purple (#B894FF)
+  - Properties: Aqua (#A1EFE4)
 
 ## Installation
 
@@ -53,14 +54,15 @@ After installation, open Zed Settings and select "HC Monokai" as your theme.
 | Element | Color | Hex |
 |---------|-------|-----|
 | Background | Black | #000000 |
-| Foreground | White | #FFFFFF |
+| Foreground | Warm off-white | #F8F8F2 |
 | Accent/Border | Cyan | #43B9D8 |
-| Comment | Orange | #FD971F |
+| Comment | Muted olive | #A8A27F |
 | String | Yellow | #E6DB74 |
-| Keyword | Magenta | #F92672 |
+| Keyword | Magenta | #FF6699 |
 | Function | Green | #A6E22E |
 | Type | Cyan | #66D9EF |
-| Number | Purple | #AE81FF |
+| Number | Purple | #B894FF |
+| Property | Aqua | #A1EFE4 |
 | UI Surface | Charcoal | #080808 |
 
 ## Related
